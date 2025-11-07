@@ -1,9 +1,10 @@
 ---
-title: Design Draft
-author: Tao He
+title: Linux
+author: Chu Ying
 date: 2022-02-06
-category: Jekyll
+category: java
 layout: post
 ---
 
-This is an draft page.
+Linux.
+
