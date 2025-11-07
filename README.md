@@ -12,7 +12,7 @@ permalink: /
 
 ## 个人技能
 
-|  个人技能  |
+|  🍓🍓🍓🍓🍓  |
 |  ----  |
 | 后端技术：Spring Boot, Spring MVC, MyBatis|
 | 数据库：MySQL|
@@ -21,8 +21,3 @@ permalink: /
 | 开发工具：Maven, Git, IDEA，Android Studio|
 | 掌握Android开发|
 
-
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
