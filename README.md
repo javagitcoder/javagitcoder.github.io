@@ -7,7 +7,7 @@ permalink: /
 个人作品
 
 ## 个人技能
-|    |
+|  个人技能  |
 |  ----  |
 | 后端技术：Spring Boot, Spring MVC, MyBatis|
 | 数据库：MySQL|
