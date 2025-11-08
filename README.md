@@ -3,7 +3,7 @@ layout: home
 title: 个人简历
 permalink: /
 ---
-![草莓雪吻巧克力]({{ site.baseurl }}/assets/gitbook/images/chocolate1001.jpg)
+<img src="{{ site.baseurl }}/assets/gitbook/images/chocolate1001.jpg" alt="草莓雪吻巧克力" width="50%">
 ## 项目名称： 
 日本零食图文语言学习平台（JapanGoods Learning）
 ## 项目简介：
