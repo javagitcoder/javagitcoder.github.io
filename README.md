@@ -5,6 +5,8 @@ permalink: /
 ---
 
 
+## 项目名称： 
+日本零食图文语言学习平台（JapanGoods Learning）
 
 |  巧克力 | 糖  | 饮料  |
 |  ----  | ---- | ---- |
@@ -12,8 +14,6 @@ permalink: /
 |  チョコレート  | ガム | 飲み物 |
 |  Chocolate  | Sugar | Drink |
 
-## 项目名称： 
-日本零食图文语言学习平台（JapanGoods Learning）
 ## 项目简介：
 个人开发的多端学习应用，通过展示日本零食的图片与中、日、英三语内容，帮助用户在浏览美食的同时学习外语。
 
@@ -40,7 +40,7 @@ git地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
 
 桌面端：增删改查管理功能
 
-Web 端：图文学习界面（分页）
+Web 端：图文学习界面
 
 Android 端：通过 REST API 加载数据
 
