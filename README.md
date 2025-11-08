@@ -22,7 +22,7 @@ permalink: /
 ## 项目展示
 ### Jsp + Servlet版
 ![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/chocolate1001.jpg "Jsp + Servlet")
-git地址：[Jsp + Servlet](javagitcoder.github.io "Jsp + Servlet")
+git地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
 
 ## 技术栈：
 
