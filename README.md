@@ -19,6 +19,11 @@ permalink: /
 
 系统采用统一的 MySQL 数据库，实现网页端、桌面端、移动端和 API 服务的多平台访问。
 
+## 项目展示
+### Jsp + Servlet版
+![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/chocolate1001.jpg "Jsp + Servlet")
+git地址：[Jsp + Servlet](javagitcoder.github.io "Jsp + Servlet")
+
 ## 技术栈：
 
 后端：Java、JSP/Servlet、Spring Boot、MyBatis、JDBC、MySQL
