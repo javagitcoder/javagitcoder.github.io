@@ -3,7 +3,7 @@ layout: home
 title: 个人简历
 permalink: /
 ---
-
+![711巧克力棒]({{ site.baseurl }}/assets/images/chocolate1001.jpg)
 ## 项目名称： 
 日本零食图文语言学习平台（JapanGoods Learning）
 ## 项目简介：
