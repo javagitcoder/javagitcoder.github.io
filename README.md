@@ -24,8 +24,8 @@ GitHub： github.com/javagitcoder
 
 ## 项目展示
 ### Jsp + Servlet + JDBC版
-![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/chocolate1001.jpg "Jsp + Servlet")
-git地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
+![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/japangoods-jsp.png "Jsp + Servlet")
+git地址：[Jsp + Servlet](https://github.com/javagitcoder/japanese-snacks-web "Jsp + Servlet")
 
 ### Spring Boot + MyBatis版
 ![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/sugar1001.jpg "Jsp + Servlet")
