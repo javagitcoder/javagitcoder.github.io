@@ -66,6 +66,6 @@ Spring Boot 提供统一 JSON 接口服务
 | 数据库：MySQL|
 | 前端技术：HTML, CSS, JavaScript, jQuery|
 | 服务器：Tomcat|
-| 开发工具：Maven, Git, IDEA，Android Studio|
+| 开发工具：Maven, Git, IDEA，Android Studio,VS Code|
 | 掌握Android开发|
 
