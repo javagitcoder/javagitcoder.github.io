@@ -3,7 +3,10 @@ layout: home
 title: 个人简历
 permalink: /
 ---
+## 联系方式
+Email： codewithgit@qq.com
 
+GitHub： github.com/javagitcoder
 
 ## 项目名称： 
 日本零食图文语言学习平台（JapanGoods Learning）
