@@ -28,16 +28,16 @@ GitHub： github.com/javagitcoder
 项目地址：[https://github.com/javagitcoder/japanese-snacks-web](https://github.com/javagitcoder/japanese-snacks-web "Jsp + Servlet")
 
 ### Spring Boot + MyBatis版
-![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/sugar1001.jpg "Jsp + Servlet")
-项目地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
+![Spring Boot + MyBatis]({{ site.baseurl }}/assets/gitbook/images/sugar1001.jpg "Spring Boot + MyBatis")
+项目地址：[https://github.com/javagitcoder/japanese-snacks-spring](https://github.com/javagitcoder/japanese-snacks-spring "Spring Boot + MyBatis")
 
 ### Android版
-![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/drink1001.jpg "Jsp + Servlet")
-项目地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
+![Android]({{ site.baseurl }}/assets/gitbook/images/drink1001.jpg "Android")
+项目地址：[https://github.com/javagitcoder/japanese-snacks-android](https://github.com/javagitcoder/japanese-snacks-android "Android")
 
 ### Swing版
-![Jsp + Servlet]({{ site.baseurl }}/assets/gitbook/images/pudding1001.jpg "Jsp + Servlet")
-项目地址：[Jsp + Servlet](https://javagitcoder.github.io "Jsp + Servlet")
+![Swing]({{ site.baseurl }}/assets/gitbook/images/pudding1001.jpg "Swing")
+项目地址：[https://github.com/javagitcoder/japanese-snacks-swing](https://github.com/javagitcoder/japanese-snacks-swing "Swing")
 
 ## 技术栈：
 
