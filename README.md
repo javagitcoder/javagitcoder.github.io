@@ -7,6 +7,7 @@ permalink: /
 * ASP.NET
 * C# Revit
 * C++ OSG
+无Java开发项目经验
 ## 联系方式
 * Email： codewithgit@qq.com
 * GitHub： github.com/javagitcoder
