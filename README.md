@@ -3,6 +3,10 @@ layout: home
 title: 个人简历
 permalink: /
 ---
+10年开发经验，参与开发过以下项目：
+* ASP.NET
+* C# Revit
+* C++ OSG
 ## 联系方式
 Email： codewithgit@qq.com
 
