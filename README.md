@@ -36,7 +36,7 @@ GitHub： github.com/javagitcoder
 项目地址：[https://github.com/javagitcoder/japanese-snacks-android](https://github.com/javagitcoder/japanese-snacks-android "Android")
 
 ### Swing版
-![Swing]({{ site.baseurl }}/assets/gitbook/images/pudding1001.jpg "Swing")
+![Swing]({{ site.baseurl }}/assets/gitbook/images/japangoods-swing.png "Swing")
 项目地址：[https://github.com/javagitcoder/japanese-snacks-swing](https://github.com/javagitcoder/japanese-snacks-swing "Swing")
 
 ## 技术栈：
