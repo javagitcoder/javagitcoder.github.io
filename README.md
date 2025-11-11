@@ -36,7 +36,7 @@ permalink: /
 项目地址：[https://github.com/javagitcoder/japanese-snacks-spring](https://github.com/javagitcoder/japanese-snacks-spring "Spring Boot + MyBatis")
 
 ### Android版
-![Android]({{ site.baseurl }}/assets/gitbook/images/drink1001.jpg "Android")
+![Android]({{ site.baseurl }}/assets/gitbook/images/japangoods-android.png "Android")
 项目地址：[https://github.com/javagitcoder/japanese-snacks-android](https://github.com/javagitcoder/japanese-snacks-android "Android")
 
 ### Swing版
