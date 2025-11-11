@@ -37,6 +37,7 @@ permalink: /
 
 ### Android版
 ![Android]({{ site.baseurl }}/assets/gitbook/images/japangoods-android.png "Android")
+
 项目地址：[https://github.com/javagitcoder/japanese-snacks-android](https://github.com/javagitcoder/japanese-snacks-android "Android")
 
 ### Swing版
