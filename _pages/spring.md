@@ -5,7 +5,7 @@ date: 2022-02-04
 category: java
 layout: post
 ---
->
+
 浏览器请求
 
     ↓
@@ -43,6 +43,7 @@ Controller将数据放入Model → 指定模板文件
     ↓
     
 浏览器加载HTML + static中的静态资源
+
 
 
 
