@@ -32,7 +32,7 @@ permalink: /
 项目地址：[https://github.com/javagitcoder/japanese-snacks-web](https://github.com/javagitcoder/japanese-snacks-web "Jsp + Servlet")
 
 ### Spring Boot + MyBatis版
-![Spring Boot + MyBatis]({{ site.baseurl }}/assets/gitbook/images/japangoods-spring-index.jpg "Spring Boot + MyBatis")
+![Spring Boot + MyBatis]({{ site.baseurl }}/assets/gitbook/images/japangoods-spring-index.png "Spring Boot + MyBatis")
 项目地址：[https://github.com/javagitcoder/japanese-snacks-spring](https://github.com/javagitcoder/japanese-snacks-spring "Spring Boot + MyBatis")
 
 ### Android版
