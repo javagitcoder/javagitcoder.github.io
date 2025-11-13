@@ -72,3 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+# 百度统计
+baidu_analytics: 5c5cd7a7b1f047751f545af68a7d0a0b
